@@ -1,0 +1,5 @@
+{
+  "name": "AutoTimetable MVP",
+  "description": "An automated, conflict-free timetable generator for schools and colleges, featuring greedy scheduling algorithms, teacher/subject management, and interactive weekly grids.",
+  "requestFramePermissions": []
+}
